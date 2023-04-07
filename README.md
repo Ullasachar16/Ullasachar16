@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning React 
+- 💬 Ask me about Java, HTML, CSS, JavaScript, React, SQL
+- 📫 How to reach me: https://www.linkedin.com/in/ullas-p-483584231
+
 <!--
 **Ullasachar16/Ullasachar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
